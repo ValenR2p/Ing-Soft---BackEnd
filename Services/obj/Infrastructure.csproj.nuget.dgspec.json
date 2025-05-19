@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Services\\Infrastructure.csproj": {}
+    "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Application\\Application.csproj": {
+    "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Services\\Infrastructure.csproj": {
+    "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Services\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Services\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Services\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,8 +173,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Application\\Application.csproj"
+              "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Application.csproj"
               }
             }
           }

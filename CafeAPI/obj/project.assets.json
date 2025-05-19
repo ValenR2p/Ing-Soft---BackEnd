@@ -5165,11 +5165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\CafeAPI\\CafeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\CafeAPI.csproj",
       "projectName": "CafeAPI",
-      "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\CafeAPI\\CafeAPI.csproj",
+      "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\CafeAPI.csproj",
       "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\CafeAPI\\obj\\",
+      "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5187,8 +5187,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Services\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Services\\Infrastructure.csproj"
+            "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Infrastructure.csproj"
             }
           }
         }

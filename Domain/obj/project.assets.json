@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pc\\source\\repos\\CafeAPI\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = C:\Users\Pc\source\repos\CafeAPI\Services\
+build_property.ProjectDir = C:\Users\Pc\Documents\GitHub\Ing-Soft---BackEnd\Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
