@@ -1,10 +1,11 @@
 ﻿using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Persistence;
+using Application.Interface.Product;
 
 namespace Infrastructure.Query
 {
-    internal class ProductoQuery
+    public class ProductoQuery : IProductoQuery
     {
         private readonly ApiContext _context;
         public ProductoQuery(ApiContext context)

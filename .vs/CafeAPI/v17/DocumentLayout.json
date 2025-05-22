@@ -1,7 +1,184 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\cafeapi\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|solutionrelative:cafeapi\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\cafeapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|solutionrelative:cafeapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\cafeapi\\controllers\\ordendetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|solutionrelative:cafeapi\\controllers\\ordendetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\usecase\\orderdetailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\usecase\\orderdetailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\orderdetail\\iordendetalleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\orderdetail\\iordendetalleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\orderdetail\\iordendetallequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\orderdetail\\iordendetallequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\orderdetail\\iordendetallecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\orderdetail\\iordendetallecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\cafeapi\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|solutionrelative:cafeapi\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\cafeapi\\controllers\\formacobranzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|solutionrelative:cafeapi\\controllers\\formacobranzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\cafeapi\\controllers\\facturadetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|solutionrelative:cafeapi\\controllers\\facturadetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\cafeapi\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C1F6FB-4F90-4EDF-AD28-F2BC94431DA8}|CafeAPI\\CafeAPI.csproj|solutionrelative:cafeapi\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\usecase\\proveedorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\usecase\\proveedorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\command\\ordendecompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\command\\ordendecompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\command\\facturacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\command\\facturacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\command\\detallefacturacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\command\\detallefacturacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\command\\detalleordencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\command\\detalleordencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\command\\productocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\command\\productocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\command\\proveedorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\command\\proveedorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\query\\detallefacturaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\query\\detallefacturaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\query\\detalleordenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\query\\detalleordenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\query\\facturaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\query\\facturaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\query\\formacobranzaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\query\\formacobranzaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\query\\ordendecompraquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\query\\ordendecompraquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\query\\proveedorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\query\\proveedorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\services\\query\\productoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABB025D-6FFC-4805-98CC-D1329C43C9EC}|Services\\Infrastructure.csproj|solutionrelative:services\\query\\productoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\usecase\\facturedetailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\usecase\\facturedetailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\usecase\\methodservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\usecase\\methodservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\request\\orderdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\request\\orderdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\mapper\\detalleordenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\mapper\\detalleordenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\mapper\\detallefacturamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\mapper\\detallefacturamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\mapper\\imapper\\idetalleordenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\mapper\\imapper\\idetalleordenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\mapper\\imapper\\idetallefacturamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\mapper\\imapper\\idetallefacturamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\response\\orderdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\response\\orderdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\response\\facturedetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\response\\facturedetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\response\\methodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\response\\methodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\facturedetail\\ifacturadetalleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\facturedetail\\ifacturadetalleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\facturedetail\\ifacturadetallequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\facturedetail\\ifacturadetallequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\facturedetail\\ifacturadetallecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\facturedetail\\ifacturadetallecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\mapper\\imapper\\iformacobranzamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\mapper\\imapper\\iformacobranzamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\request\\facturedetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\request\\facturedetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\payingmethod\\iformacobranzaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\payingmethod\\iformacobranzaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\interface\\payingmethod\\iformacobranzaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\interface\\payingmethod\\iformacobranzaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\application\\mapper\\formacobranzamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B58734-5587-49A2-9B9E-CEE18D723196}|Application\\Application.csproj|solutionrelative:application\\mapper\\formacobranzamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CFC67A-B825-4FBE-8BA0-60CB60DFD3C8}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\github\\ing-soft---backend\\domain\\models\\formacobranza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CFC67A-B825-4FBE-8BA0-60CB60DFD3C8}|Domain\\Domain.csproj|solutionrelative:domain\\models\\formacobranza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +186,333 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdenDetalleController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\OrdenDetalleController.cs",
+              "RelativeDocumentMoniker": "CafeAPI\\Controllers\\OrdenDetalleController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\OrdenDetalleController.cs",
+              "RelativeToolTip": "CafeAPI\\Controllers\\OrdenDetalleController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA0wGUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:41:08.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "CafeAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "CafeAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:39:49.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrdenDetalleServices.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\OrderDetail\\IOrdenDetalleServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\OrderDetail\\IOrdenDetalleServices.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\OrderDetail\\IOrdenDetalleServices.cs",
+              "RelativeToolTip": "Application\\Interface\\OrderDetail\\IOrdenDetalleServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:01:30.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrdenDetalleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\OrderDetail\\IOrdenDetalleCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\OrderDetail\\IOrdenDetalleCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\OrderDetail\\IOrdenDetalleCommand.cs",
+              "RelativeToolTip": "Application\\Interface\\OrderDetail\\IOrdenDetalleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:58:17.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrdenDetalleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\OrderDetail\\IOrdenDetalleQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\OrderDetail\\IOrdenDetalleQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\OrderDetail\\IOrdenDetalleQuery.cs",
+              "RelativeToolTip": "Application\\Interface\\OrderDetail\\IOrdenDetalleQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:58:39.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailServices.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\OrderDetailServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\OrderDetailServices.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\OrderDetailServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\OrderDetailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:19:03.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "CafeAPI\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "CafeAPI\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:39:37.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdenController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\OrdenController.cs",
+              "RelativeDocumentMoniker": "CafeAPI\\Controllers\\OrdenController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\OrdenController.cs",
+              "RelativeToolTip": "CafeAPI\\Controllers\\OrdenController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:40:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormaCobranzaController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\FormaCobranzaController.cs",
+              "RelativeDocumentMoniker": "CafeAPI\\Controllers\\FormaCobranzaController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\FormaCobranzaController.cs",
+              "RelativeToolTip": "CafeAPI\\Controllers\\FormaCobranzaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:40:16.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturaDetalleController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\FacturaDetalleController.cs",
+              "RelativeDocumentMoniker": "CafeAPI\\Controllers\\FacturaDetalleController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\FacturaDetalleController.cs",
+              "RelativeToolTip": "CafeAPI\\Controllers\\FacturaDetalleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:40:36.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "CafeAPI\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\CafeAPI\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "CafeAPI\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwFUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:40:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProveedorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\ProveedorCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Command\\ProveedorCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\ProveedorCommand.cs",
+              "RelativeToolTip": "Services\\Command\\ProveedorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:02:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\ProductoCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Command\\ProductoCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\ProductoCommand.cs",
+              "RelativeToolTip": "Services\\Command\\ProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:00:58.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdenDeCompraCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\OrdenDeCompraCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Command\\OrdenDeCompraCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\OrdenDeCompraCommand.cs",
+              "RelativeToolTip": "Services\\Command\\OrdenDeCompraCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:36:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FacturaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\FacturaCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Command\\FacturaCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\FacturaCommand.cs",
+              "RelativeToolTip": "Services\\Command\\FacturaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:36:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetalleOrdenCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\DetalleOrdenCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Command\\DetalleOrdenCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\DetalleOrdenCommand.cs",
+              "RelativeToolTip": "Services\\Command\\DetalleOrdenCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:35:33.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleFacturaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\DetalleFacturaCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Command\\DetalleFacturaCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Command\\DetalleFacturaCommand.cs",
+              "RelativeToolTip": "Services\\Command\\DetalleFacturaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:34:49.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProveedorServices.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\ProveedorServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\ProveedorServices.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\ProveedorServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\ProveedorServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:24:36.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetalleFacturaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\DetalleFacturaQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Query\\DetalleFacturaQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\DetalleFacturaQuery.cs",
+              "RelativeToolTip": "Services\\Query\\DetalleFacturaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:05:43.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetalleOrdenQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\DetalleOrdenQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Query\\DetalleOrdenQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\DetalleOrdenQuery.cs",
+              "RelativeToolTip": "Services\\Query\\DetalleOrdenQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:05:24.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FacturaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\FacturaQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Query\\FacturaQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\FacturaQuery.cs",
+              "RelativeToolTip": "Services\\Query\\FacturaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:05:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormaCobranzaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\FormaCobranzaQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Query\\FormaCobranzaQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\FormaCobranzaQuery.cs",
+              "RelativeToolTip": "Services\\Query\\FormaCobranzaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:04:37.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrdenDeCompraQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\OrdenDeCompraQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Query\\OrdenDeCompraQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\OrdenDeCompraQuery.cs",
+              "RelativeToolTip": "Services\\Query\\OrdenDeCompraQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:04:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProveedorQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\ProveedorQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Query\\ProveedorQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\ProveedorQuery.cs",
+              "RelativeToolTip": "Services\\Query\\ProveedorQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:03:25.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\ProductoQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Query\\ProductoQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Services\\Query\\ProductoQuery.cs",
+              "RelativeToolTip": "Services\\Query\\ProductoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:03:53.054Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -50,6 +552,236 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDetalleOrdenMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\IMapper\\IDetalleOrdenMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\IMapper\\IDetalleOrdenMapper.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\IMapper\\IDetalleOrdenMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\IMapper\\IDetalleOrdenMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:22:50.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MethodServices.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\MethodServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\MethodServices.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\MethodServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\MethodServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:53:44.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetalleFacturaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\DetalleFacturaMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\DetalleFacturaMapper.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\DetalleFacturaMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\DetalleFacturaMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:10:49.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDetailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Request\\OrderDetailRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\OrderDetailRequest.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Request\\OrderDetailRequest.cs",
+              "RelativeToolTip": "Application\\Request\\OrderDetailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:07:43.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FactureDetailServices.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\FactureDetailServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\FactureDetailServices.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\UseCase\\FactureDetailServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\FactureDetailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:15:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetalleOrdenMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\DetalleOrdenMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\DetalleOrdenMapper.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\DetalleOrdenMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\DetalleOrdenMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:24:01.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDetailResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Response\\OrderDetailResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\OrderDetailResponse.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Response\\OrderDetailResponse.cs",
+              "RelativeToolTip": "Application\\Response\\OrderDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:08:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IDetalleFacturaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\IMapper\\IDetalleFacturaMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\IMapper\\IDetalleFacturaMapper.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\IMapper\\IDetalleFacturaMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\IMapper\\IDetalleFacturaMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:08:37.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MethodResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Response\\MethodResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\MethodResponse.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Response\\MethodResponse.cs",
+              "RelativeToolTip": "Application\\Response\\MethodResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:52:40.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IFacturaDetalleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\FactureDetail\\IFacturaDetalleCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\FactureDetail\\IFacturaDetalleCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\FactureDetail\\IFacturaDetalleCommand.cs",
+              "RelativeToolTip": "Application\\Interface\\FactureDetail\\IFacturaDetalleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:01:50.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FactureDetailResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Response\\FactureDetailResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\FactureDetailResponse.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Response\\FactureDetailResponse.cs",
+              "RelativeToolTip": "Application\\Response\\FactureDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:07:49.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IFacturaDetalleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\FactureDetail\\IFacturaDetalleQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\FactureDetail\\IFacturaDetalleQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\FactureDetail\\IFacturaDetalleQuery.cs",
+              "RelativeToolTip": "Application\\Interface\\FactureDetail\\IFacturaDetalleQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:01:56.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IFacturaDetalleServices.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\FactureDetail\\IFacturaDetalleServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\FactureDetail\\IFacturaDetalleServices.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\FactureDetail\\IFacturaDetalleServices.cs",
+              "RelativeToolTip": "Application\\Interface\\FactureDetail\\IFacturaDetalleServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:01:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FactureDetailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Request\\FactureDetailRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\FactureDetailRequest.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Request\\FactureDetailRequest.cs",
+              "RelativeToolTip": "Application\\Request\\FactureDetailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:06:51.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFormaCobranzaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\IMapper\\IFormaCobranzaMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\IMapper\\IFormaCobranzaMapper.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\IMapper\\IFormaCobranzaMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\IMapper\\IFormaCobranzaMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:48:47.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormaCobranzaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\FormaCobranzaMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\FormaCobranzaMapper.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Mapper\\FormaCobranzaMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\FormaCobranzaMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:49:57.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IFormaCobranzaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\PayingMethod\\IFormaCobranzaQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\PayingMethod\\IFormaCobranzaQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\PayingMethod\\IFormaCobranzaQuery.cs",
+              "RelativeToolTip": "Application\\Interface\\PayingMethod\\IFormaCobranzaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:47:10.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IFormaCobranzaServices.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\PayingMethod\\IFormaCobranzaServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\PayingMethod\\IFormaCobranzaServices.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Application\\Interface\\PayingMethod\\IFormaCobranzaServices.cs",
+              "RelativeToolTip": "Application\\Interface\\PayingMethod\\IFormaCobranzaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:46:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormaCobranza.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Models\\FormaCobranza.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\FormaCobranza.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Ing-Soft---BackEnd\\Domain\\Models\\FormaCobranza.cs",
+              "RelativeToolTip": "Domain\\Models\\FormaCobranza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:23:27.364Z"
             }
           ]
         },

@@ -1,10 +1,11 @@
 ﻿using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Persistence;
+using Application.Interface.PayingMethod;
 
 namespace Infrastructure.Query
 {
-    internal class FormaCobranzaQuery
+    public class FormaCobranzaQuery : IFormaCobranzaQuery
     {
         private readonly ApiContext _context;
         public FormaCobranzaQuery(ApiContext context)

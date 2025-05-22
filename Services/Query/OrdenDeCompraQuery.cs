@@ -1,10 +1,11 @@
 ﻿using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Persistence;
+using Application.Interface.Order;
 
 namespace Infrastructure.Query
 {
-    internal class OrdenDeCompraQuery
+    public class OrdenDeCompraQuery : IOrdenQuery
     {
         private readonly ApiContext _context;
         public OrdenDeCompraQuery(ApiContext context)

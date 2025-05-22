@@ -1,10 +1,11 @@
 ﻿using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Persistence;
+using Application.Interface.OrderDetail;
 
 namespace Infrastructure.Query
 {
-    internal class DetalleOrdenQuery
+    public class DetalleOrdenQuery : IOrdenDetalleQuery
     {
         private readonly ApiContext _context;
         public DetalleOrdenQuery(ApiContext context)

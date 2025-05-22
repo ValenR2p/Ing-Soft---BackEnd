@@ -1,10 +1,11 @@
 ﻿using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Persistence;
+using Application.Interface.FactureDetail;
 
 namespace Infrastructure.Query
 {
-    internal class DetalleFacturaQuery
+    public class DetalleFacturaQuery : IFacturaDetalleQuery
     {
         private readonly ApiContext _context;
         public DetalleFacturaQuery(ApiContext context)
